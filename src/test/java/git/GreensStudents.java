@@ -6,6 +6,11 @@ public class GreensStudents {
 }
 	private void student2() {
 		System.out.println("bala");
+		
+
+	}
+	private void student3() {
+		System.out.println("shankar");
 
 	}
 
